@@ -1,0 +1,110 @@
+* {
+	font-family: 'Verdana', sans-serif;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: C3B091;
+	width:100%;
+	size:600px;
+}
+
+header{
+	background-color: lime;
+	color:maroon;
+}
+
+footer{
+	background-color: lime;
+	color:maroon;
+}
+
+section { 
+background-color: fff960;
+ width:85%;
+
+}
+
+
+main{
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-top:0px;
+	padding-right: 252px;
+	position: relative;
+}
+
+
+h1 {
+  color: brown;
+  text-align: center;
+  background-color: green;
+  font-variant: small-caps;
+  font-weight: bold;
+  margin: 0;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  font: 48px;
+  margin: 0px;
+	padding: 12px 6px;
+	clear: both;
+}
+
+h2, h3, h4, h5, h6{
+	 font-variant: small-caps;
+	 font-weight: bold;
+	margin: 0px;
+	padding: 12px 6px;
+	clear: both;
+}
+
+
+p{
+	text-indent: 2em;
+	align-items: stretch;
+	margin:0px;
+	padding:6px;
+}
+img{
+	width:150px;
+	float:left;
+	margin:6px;
+}
+
+menu{
+background-color:peru;
+text-align:center;
+	word-spacing: 12px;
+}
+
+span {
+	color: red;
+	width:120px;
+	text-align:center;
+	padding:12px;
+	margin:12px;
+	background-color: yellow;
+}
+table {
+	border: 1px solid black;
+   background-color: peru;
+   vertical-align: top;
+   font-weight: bold;
+   color: darkred;
+}
+td{
+	border: 1px solid black;
+	
+}
+#przypisy{
+	background-color:peru;
+	padding:6px;
+	position:absolute;
+	width:240px;
+	right: 110px;
+	top: 120px;
+	float:right;
+	
+}
